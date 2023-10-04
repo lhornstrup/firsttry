@@ -1,2 +1,2 @@
 
-<button><a href=https://lottehornstrup.dk>knap</a></button>
+<button><a href=https://lottehornstrup.dk>besøg min hjemmeside</a></button>
