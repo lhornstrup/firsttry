@@ -1,2 +1,2 @@
-# firsttry
-<button>knap</button>
+
+<button><a href=https://lottehornstrup.dk>knap</a></button>
